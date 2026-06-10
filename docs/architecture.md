@@ -28,8 +28,8 @@ VM-Backup (rsync)
 - **Interfaces** :
   - WAN : VMnet8 (NAT) — IP automatique
   - LAN : VMnet1 — 192.168.10.254
-  - BACKUP : VMnet2 — 192.168.20.254
-
+  - BACKUP : VMnet2 — 192.168.20.254 
+ee
 ### 2. DC-Server (Contrôleur de domaine)
 - **OS** : Windows Server 2022
 - **Rôles** : AD DS, DHCP, DNS
